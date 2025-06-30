@@ -29,7 +29,7 @@
 
 🔦 [**Leddar Vu8 LiDAR Object Detection and Range Evaluation for UAV Applications**](https://github.com/CARG-uOttawa/Leddar)  
 Evaluated the Leddar Vu8 8-channel LiDAR for UAV applications by interfacing it with a Raspberry Pi. Conducted short- and mid-range tests to assess distance accuracy and object detection capabilities, demonstrating the sensor’s ability to measure distances precisely and distinguish simple object geometries.
-
+🖥 *Raspberry Pi, LiDAR, Embedded Systems*
 ⚡ [**EV Power Management Research**](https://github.com/JDazogbo/VehicleControl)  
 Developed adaptive energy management controllers for electric vehicles using MATLAB, Simulink, and CarSim to optimize power consumption under varying and uncertain road conditions. Implemented advanced control strategies such as Linear Quadratic Regulator (LQR) to improve traction, stability, and energy efficiency.  
 🖥 *MATLAB, Simulink, Python*
