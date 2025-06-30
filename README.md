@@ -2,7 +2,7 @@
 
 🎓 5th-Year Computer Engineering Student @uOttawa  
 🛠️ Interned at:  
-[![Ford](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://www.ford.com/careers)
+[![Ford Motors](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://www.ford.com/careers)
 [![Arkalumen](https://img.shields.io/badge/Arkalumen-Control_Loops_&_Hardware-orange?style=flat)](https://arkalumen.com)
 [![Larus](https://img.shields.io/badge/Larus_Technologies-LLM_Research-green?style=flat)](https://www.larustech.com)  
 🚗 Passionate about automotive systems, robotics, and embedded technologies  
@@ -27,9 +27,9 @@
 ## 🛠️ Featured Projects
 
 
-🔦 [**Leddar Vu8 LiDAR Object Detection and Range Evaluation for UAV Applications**](#leddar-vu8-lidar-object-detection-and-range-evaluation-for-uav-applications)  
+🔦 [**Leddar Vu8 LiDAR Object Detection and Range Evaluation for UAV Applications**](https://github.com/CARG-uOttawa/Leddar)  
 Evaluated the Leddar Vu8 8-channel LiDAR for UAV applications by interfacing it with a Raspberry Pi. Conducted short- and mid-range tests to assess distance accuracy and object detection capabilities, demonstrating the sensor’s ability to measure distances precisely and distinguish simple object geometries.
 
-⚡ [**EV Power Management Research**](#ev-power-management-research)  
+⚡ [**EV Power Management Research**](https://github.com/JDazogbo/VehicleControl)  
 Developed adaptive energy management controllers for electric vehicles using MATLAB, Simulink, and CarSim to optimize power consumption under varying and uncertain road conditions. Implemented advanced control strategies such as Linear Quadratic Regulator (LQR) to improve traction, stability, and energy efficiency.  
 🖥 *MATLAB, Simulink, Python*
