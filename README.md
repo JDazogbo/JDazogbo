@@ -4,7 +4,7 @@
 🛠️ Interned at:  
 [![Ford Motors](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://fr.ford.ca/)
 [![Arkalumen](https://img.shields.io/badge/Arkalumen-Control_Loops_&_Hardware-orange?style=flat)](https://arkalumen.com)
-[![Larus](https://img.shields.io/badge/Larus_Technologies-LLM_Research-green?style=flat)]([https://www.larustech.com](https://www.larus.com/))  
+[![Larus](https://img.shields.io/badge/Larus_Technologies-LLM_Research-green?style=flat)](https://www.larus.com/)  
 🚗 Passionate about automotive systems, robotics, and embedded technologies  
 🌱 Currently seeking internships or full-time roles in automotive. Looking at you [Tesla](https://www.tesla.com/careers)! 👀
 
