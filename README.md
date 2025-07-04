@@ -41,3 +41,6 @@ Developed adaptive energy management controllers for electric vehicles using MAT
 Evaluated the Leddar Vu8 8-channel LiDAR for UAV applications by interfacing it with a Raspberry Pi. Conducted short- and mid-range tests to assess distance accuracy and object detection capabilities, demonstrating the sensor’s ability to measure distances precisely and distinguish simple object geometries.  
 🖥 *Raspberry Pi, LiDAR, Embedded Systems*  
 
+🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
+Designed, coordinated and implemented the embedded firmware for the Tactical Aerial Insight and Localization Suite (TAILS) Point-of-Interest detection system, enabling real-time drone telemetry, GPS tracking, and AI-powered object detection using a Heltec WiFi LoRa 32 board. Developed reliable LoRa communication protocols and sensor interfacing for autonomous aerial surveillance applications.  
+🖥 *C++, Arduino, ESP32, LoRa, GPS, AI Inference*
