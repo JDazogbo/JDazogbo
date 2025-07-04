@@ -19,8 +19,14 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-orange?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Simulink](https://img.shields.io/badge/Simulink-blue?style=for-the-badge&logo=mathworks&logoColor=white)
+![Altium Designer](https://img.shields.io/badge/Altium_Designer-FFDE00?style=for-the-badge&logo=altiumdesigner&logoColor=black)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-ED1C24?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![VHDL](https://img.shields.io/badge/VHDL-3671A7?style=for-the-badge&logo=hdl&logoColor=white)
+
 
 ---
 
