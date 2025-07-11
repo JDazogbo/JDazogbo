@@ -1,23 +1,25 @@
-## What’s Up,  I’m Josué! ✌🏿 
+# What’s Up,  I’m Josué! ✌🏿 
 
 <p align="center">
   <img src="Pictures/space_station_background.jpg" alt="Banner" style="width:100%; max-height:280px; object-fit: cover;" />
 </p>
 
+## 📝 About Me  
 🎓 5th-Year Computer Engineering Student @uOttawa  
-🛠️ Interned at:  
+🚗 Passionate about automotive systems, robotics, and embedded technologies  
+🌱 Currently seeking internships or full-time roles in automotive. Looking at you [Tesla](https://www.tesla.com/careers)! 👀  
+🎧 Huge **Nas** fan! *“The World Is Yours” stays on repeat*  
+
+### 🛠️ I Worked at  
 [![Ford Motors](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://fr.ford.ca/)
 [![Arkalumen](https://img.shields.io/badge/Arkalumen-Control_Loops_&_Hardware-orange?style=flat)](https://arkalumen.com)
 [![Larus](https://img.shields.io/badge/Larus_Technologies-LLM_Research-green?style=flat)](https://www.larus.com/)  
-🚗 Passionate about automotive systems, robotics, and embedded technologies  
-🌱 Currently seeking internships or full-time roles in automotive. Looking at you [Tesla](https://www.tesla.com/careers)! 👀
 
-
-### 🔗 Connect with Me:
+### 🔗 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jdazogbo/)  
----
 
-## ⚙️ Tech Stack:
+
+## ⚙️ Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -29,8 +31,6 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![VHDL](https://img.shields.io/badge/VHDL-3671A7?style=for-the-badge&logo=hdl&logoColor=white)
 
-
----
 
 ## 🛠️ Featured Projects
 
