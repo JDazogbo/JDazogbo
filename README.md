@@ -1,4 +1,8 @@
-## Hey there 👋 I'm Josué!
+## What’s Up,  I’m Josué! ✌🏿 
+
+<p align="center">
+  <img src="Pictures/space_station_background.jpg" alt="Banner" style="width:100%; max-height:280px; object-fit: cover;" />
+</p>
 
 🎓 5th-Year Computer Engineering Student @uOttawa  
 🛠️ Interned at:  
@@ -11,8 +15,6 @@
 
 ### 🔗 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jdazogbo/)  
-[![GitHub](https://img.shields.io/badge/GitHub-Visit-black?style=for-the-badge&logo=github)](https://github.com/JDazogbo)  
-
 ---
 
 ## ⚙️ Tech Stack:
