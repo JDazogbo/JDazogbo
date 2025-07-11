@@ -8,7 +8,7 @@
 🎓 5th-Year Computer Engineering Student @uOttawa  
 🚗 Passionate about automotive systems, robotics, and embedded technologies  
 🌱 Currently seeking internships or full-time roles in automotive. Looking at you [Tesla](https://www.tesla.com/careers)! 👀  
-🎧 Huge **Nas** fan! *“The World Is Yours” stays on repeat*  
+🎧 Huge Nas fan! *“The World Is Yours” stays on repeat*  
 
 ### 🛠️ I Worked at  
 [![Ford Motors](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://fr.ford.ca/)
