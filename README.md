@@ -7,7 +7,7 @@
 ## 📝 About Me  
 🎓 5th-Year Computer Engineering Student @uOttawa  
 🚗 Passionate about automotive systems, robotics, and embedded technologies  
-🌱 Currently seeking internships or full-time roles in automotive. Looking at you [Tesla](https://www.tesla.com/careers)! 👀  
+🌱 Currently seeking internships or full-time roles in automotive. 
 🎧 Huge Nas fan! *“The World Is Yours” stays on repeat*  
 
 ### 🛠️ I Worked at  
