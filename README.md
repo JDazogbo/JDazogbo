@@ -55,12 +55,12 @@ Simulated multilayer dielectric coatings using the Transfer Matrix Method (TMM) 
 
 ### 🧮 Quantitative Trading
 
-📈 [**Unsupervised Stock Clustering and Classification**](https://github.com/JDazogbo/Unsupervised-Learning-Stocks)  
-Built a full data pipeline for clustering S&P 500 companies based on financial attributes using k-Means. Combined Yahoo Finance scraping, data validation, and dimensionality reduction to create interpretable clusters. Trained a lightweight supervised model to predict cluster membership of unseen firms with 92% accuracy.  
-🖥 *Python, Scikit-Learn, Machine Learning, Quantitative Trading*
-
 📊 [**Onyx Trading Engine**](https://github.com/Black-Wall-Street/Project-OTE)  
 A modular and extensible trading strategy platform supporting live trading (Interactive Brokers) and backtesting (Yahoo Finance & custom adapters). Built with clean, scalable design patterns (ports & adapters) and a robust, thread-safe architecture. Includes candlestick chart visualizations with buy/sell markers for strategy evaluation.  
 🖥 *Python, Interactive Brokers API, Quantitative Finance, Backtesting*
+
+📈 [**Unsupervised Stock Clustering and Classification**](https://github.com/JDazogbo/Unsupervised-Learning-Stocks)  
+Built a full data pipeline for clustering S&P 500 companies based on financial attributes using k-Means. Combined Yahoo Finance scraping, data validation, and dimensionality reduction to create interpretable clusters. Trained a lightweight supervised model to predict cluster membership of unseen firms with 92% accuracy.  
+🖥 *Python, Scikit-Learn, Machine Learning, Quantitative Trading*
 
 
