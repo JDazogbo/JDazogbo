@@ -6,9 +6,10 @@
 
 ## 📝 About Me  
 🎓 5th-Year Computer Engineering Student @uOttawa  
-🚗 Passionate about automotive systems, robotics, and embedded technologies  
-🌱 Currently seeking internships or full-time roles in automotive. 
-🎧 Huge Nas fan! *“The World Is Yours” stays on repeat*  
+🚗 Passionate about Automotive Systems, Robotics, and Embedded Technologies  
+💰 Discovering Quantitative Trading and Artificial Intelligence  
+🌱 Currently seeking internships or full-time roles in automotive  
+🎧 Huge Nas fan! *“The World Is Yours” stays on repeat*!!  
 
 ### 🛠️ I Worked at  
 [![Ford Motors](https://img.shields.io/badge/Ford-Embedded_Systems-blue?style=flat&logo=ford&logoColor=white)](https://fr.ford.ca/)
@@ -19,7 +20,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jdazogbo/)  
 
 
-## ⚙️ Tech Stack  
+## 🔧 Tech Stack  
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -34,6 +35,7 @@
 
 ## 🛠️ Featured Projects
 
+### ⚙️ Control Theory and Embedded Systems
 
 ⚡ [**EV Power Management Research**](https://github.com/JDazogbo/VehicleControl)  
 Developed adaptive energy management controllers for electric vehicles using MATLAB, Simulink, and CarSim to optimize power consumption under varying and uncertain road conditions. Implemented advanced control strategies such as Linear Quadratic Regulator (LQR) to improve traction, stability, and energy efficiency.  
@@ -51,7 +53,14 @@ Evaluated the Leddar Vu8 8-channel LiDAR for UAV applications by interfacing it 
 Simulated multilayer dielectric coatings using the Transfer Matrix Method (TMM) to minimize reflection and maximize absorption in solar cells across the visible spectrum. Designed and evaluated optical stacks using Python to improve photovoltaic efficiency through anti-reflective properties.  
 🖥 *Python, Optics, Computational Electromagnetics*
 
+### 🧮 Quantitative Trading
+
 📈 [**Unsupervised Stock Clustering and Classification**](https://github.com/JDazogbo/Unsupervised-Learning-Stocks)  
 Built a full data pipeline for clustering S&P 500 companies based on financial attributes using k-Means. Combined Yahoo Finance scraping, data validation, and dimensionality reduction to create interpretable clusters. Trained a lightweight supervised model to predict cluster membership of unseen firms with 92% accuracy.  
 🖥 *Python, Scikit-Learn, Machine Learning, Quantitative Trading*
+
+📊 [**Onyx Trading Engine**](https://github.com/Black-Wall-Street/Project-OTE)  
+A modular and extensible trading strategy platform supporting live trading (Interactive Brokers) and backtesting (Yahoo Finance & custom adapters). Built with clean, scalable design patterns (ports & adapters) and a robust, thread-safe architecture. Includes candlestick chart visualizations with buy/sell markers for strategy evaluation.  
+🖥 *Python, Interactive Brokers API, Quantitative Finance, Backtesting*
+
 
