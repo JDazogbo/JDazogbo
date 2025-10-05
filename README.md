@@ -41,7 +41,7 @@
 Developed adaptive energy management controllers for electric vehicles using MATLAB, Simulink, and CarSim to optimize power consumption under varying and uncertain road conditions. Implemented advanced control strategies such as Linear Quadratic Regulator (LQR) to improve traction, stability, and energy efficiency.  
 🖥 *MATLAB, Simulink, Control Theory*
 
-🚁 [**TAILS Embedded System**](https://github.com/FreddyyAndrews/TAILS-Embedded)  
+🚁 [**TAILS System**](https://github.com/TAILS-Capstone)  
 Designed, coordinated and implemented the embedded firmware for the Tactical Aerial Insight and Localization Suite (TAILS) Point-of-Interest detection system, enabling real-time drone telemetry, GPS tracking, and AI-powered object detection using a Heltec WiFi LoRa 32 board. Developed reliable LoRa communication protocols and sensor interfacing for autonomous aerial surveillance applications.  
 🖥 *C++, Arduino, ESP32, LoRa, GPS, Artificial Intelligence*
 
